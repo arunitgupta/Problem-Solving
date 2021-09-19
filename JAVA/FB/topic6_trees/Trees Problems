@@ -1,0 +1,18 @@
+#Trees
+
+**Binary Search Tree : Insertion**
+You are given a pointer to the root of a binary search tree and values to be inserted into the tree. Insert the values into their appropriate position in the binary search tree and return the root of the updated binary tree. You just have to complete the function.
+
+**Tree: Height of a Binary Tree**
+The height of a binary tree is the number of edges between the tree's root and its furthest leaf. 
+
+**QHEAP1**
+This question is designed to help you get a better understanding of basic heap operations.
+
+There are  types of query:
+
+" " - Add an element  to the heap.
+" " - Delete the element  from the heap.
+"" - Print the minimum of all the elements in the heap.
+
+****
